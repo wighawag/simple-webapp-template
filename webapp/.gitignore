@@ -1,0 +1,9 @@
+/node_modules/
+/public/build/
+
+.DS_Store
+log.txt
+stats.html
+rollup.analysis
+src/contracts/development.json
+
