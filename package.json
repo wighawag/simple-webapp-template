@@ -23,6 +23,6 @@
     "shell:webapp": "newsh \"npm run webapp\"",
     "dev": "npm-run-all -l externals:down --parallel webapp externals",
     "shell:dev": "npm-run-all -l externals:down --parallel shell:webapp shell:externals",
-    "shell:dev:no-webapp": "npm-run-all -l externals:down --parallel shell:externals",
+    "shell:dev:no-webapp": "npm-run-all -l externals:down --parallel shell:externals"
   }
 }
